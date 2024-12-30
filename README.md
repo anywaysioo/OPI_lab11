@@ -7,3 +7,4 @@
 1 курс 6 группа 2 подгруппа
 hello
 abcdefg
+ssl;ldl
